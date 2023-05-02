@@ -29,42 +29,42 @@ manually by running:
 
 Buka lokasi file.
 <p align="center">
-    <img src="satu.png" width="700" />
+    <img src="image/README/satu.png" width="700" />
     <br>
  </p>
  
 kemudian ketik cmd seperti pada gambar dibawah.
 <p align="center">
-    <img src="dua.png" width="700" />
+    <img src="image/README/dua.png" width="700" />
     <br>
  </p>
  
 pastikan cmd sudah masuk ke direktori yang dituju.
 <p align="center">
-    <img src="tiga.png" width="700" />
+    <img src="image/README/tiga.png" width="700" />
     <br>
  </p>
  
 ketik perintah seperti di bawah.
 <p align="center">
-    <img src="empat.png" width="700" />
+    <img src="image/README/empat.png" width="700" />
     <br>
  </p>
 
 mana akan muncul seperti gpada gambar.
 <p align="center">
-    <img src="lima.png" width="700" />
+    <img src="image/README/lima.png" width="700" />
     <br>
  </p>
 
 gambar kemudian klik recognice.
  <p align="center">
-    <img src="enam.png" width="700" />
+    <img src="image/README/enam.png" width="700" />
     <br>
  </p>
 
 kemudian akan muncul angka dari hasil perbedaan tulisan tangan.
  <p align="center">
-    <img src="tujuh.png" width="700" />
+    <img src="image/README/tujuh.png" width="700" />
     <br>
  </p>
